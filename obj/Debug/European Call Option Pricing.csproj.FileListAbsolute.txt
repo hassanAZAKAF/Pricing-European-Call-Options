@@ -1,0 +1,13 @@
+C:\Users\allo\source\repos\European Call Option Pricing\bin\Debug\European Call Option Pricing.exe.config
+C:\Users\allo\source\repos\European Call Option Pricing\bin\Debug\European Call Option Pricing.exe
+C:\Users\allo\source\repos\European Call Option Pricing\bin\Debug\European Call Option Pricing.pdb
+C:\Users\allo\source\repos\European Call Option Pricing\obj\Debug\European Call Option Pricing.csproj.AssemblyReference.cache
+C:\Users\allo\source\repos\European Call Option Pricing\obj\Debug\European Call Option Pricing.csproj.SuggestedBindingRedirects.cache
+C:\Users\allo\source\repos\European Call Option Pricing\obj\Debug\European Call Option Pricing.csproj.CoreCompileInputs.cache
+C:\Users\allo\source\repos\European Call Option Pricing\obj\Debug\European Call Option Pricing.exe
+C:\Users\allo\source\repos\European Call Option Pricing\obj\Debug\European Call Option Pricing.pdb
+C:\Users\allo\source\repos\European Call Option Pricing\bin\Debug\MathNet.Numerics.dll
+C:\Users\allo\source\repos\European Call Option Pricing\bin\Debug\System.ValueTuple.dll
+C:\Users\allo\source\repos\European Call Option Pricing\bin\Debug\MathNet.Numerics.xml
+C:\Users\allo\source\repos\European Call Option Pricing\bin\Debug\System.ValueTuple.xml
+C:\Users\allo\source\repos\European Call Option Pricing\obj\Debug\European Call Option Pricing.csproj.CopyComplete
